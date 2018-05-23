@@ -1,6 +1,6 @@
 ## Offside Detection System for Football
 
-### Team Tech Titans 
+### Team Tech Titans - ITSP 2017
 #### Team Members:-
 
 <pre>Parthasarathi Khirwadkar		 	16D070001
